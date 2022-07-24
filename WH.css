@@ -1,0 +1,26 @@
+html, body{
+  background-color: rgb(226, 255, 188) ;
+  margin : 0;
+  padding: 0;
+}
+.top-header{
+  background-color: rgb(67, 70, 61);
+}
+ิ.brand{
+  font-size: 200px;
+  font-weight: 600;
+}
+.menu-item{
+  color: rgb(202, 202, 202);
+  padding: 15px;
+  display: inline-block;
+  text-decoration: none;
+}
+.main-content {
+    max-width: 500px;
+    margin: auto;
+}
+.table{
+  border:1px solid black;
+  width:100%;
+}
